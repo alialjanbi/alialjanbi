@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alialjanbi
+- 👋 Hi, I’m Ali Aljanbi
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning pen testing and ethical hacking
 - 💞️ I’m looking to collaborate on similar projects
