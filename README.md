@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alialjanbi
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning pen testing and ethical hacking
+- 💞️ I’m looking to collaborate on similar projects
+- 📫 How to reach me: email me at ali.aljanbi@outlook.com
